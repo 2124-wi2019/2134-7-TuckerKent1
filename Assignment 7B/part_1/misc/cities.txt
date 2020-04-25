@@ -1,0 +1,41 @@
+City			3 Letter Code
+===============================
+Ainsworth				anw
+Albion					bvn
+Alliance				aia
+Aurora					auh
+Beatrice				bie
+Blair					bta
+Brewster				hde
+Broken					bbw
+Chadron					cdr
+Columbus				olu
+Falls					fnb
+Fremont					fet
+Grand					gri
+Hastings				hsi
+Hebron					hjh
+Imperial				iml
+Kearney					ear
+Kimball					ibm
+Lexington				lxn
+Lincoln					lnk
+McCook					mck
+Millard					mle
+Nebraska, City			afk
+Norfolk					ofk
+North					lbf
+O'Neill					onl
+Ogallala				oga
+Offutt Air Force Base	off
+Omaha					oma
+Ord						odx
+Plattsmouth				pmv
+Scottsbluff				bff
+Sidney					sny
+Tekamah					tqe
+Thomas					tif
+Valentine				vtn
+Wahoo					ahq
+Wayne					lcg
+York					jyr
